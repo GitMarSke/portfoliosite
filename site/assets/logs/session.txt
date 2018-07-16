@@ -1,0 +1,2 @@
+2018-07-15 17:59:27	portfolioadmin	http://projekttestseitezwei.de/processwire/login/	Successful login for 'portfolioadmin'
+2018-07-15 20:41:47	portfolioadmin	http://projekttestseitezwei.de/processwire/login/logout/	Logout for 'portfolioadmin'

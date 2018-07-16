@@ -1,0 +1,2 @@
+2018-07-15 19:11:53	portfolioadmin	http://projekttestseitezwei.de/portfolio-site/	Parse Error: 	syntax error, unexpected '?' (line 16 of /var/www/web139068/html/portfolio/site/templates/showpicturearea.php)
+2018-07-15 19:24:38	portfolioadmin	http://projekttestseitezwei.de/portfolio-site/	Parse Error: 	syntax error, unexpected '2' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' (line 23 of /var/www/web139068/html/portfolio/site/templates/showpicturearea.php)

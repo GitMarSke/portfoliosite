@@ -95,5 +95,12 @@ $config->installed = 1531670187;
  * Installer: HTTP Hosts Whitelist
  * 
  */
-$config->httpHosts = array('projekttestseitezwei.de', 'www.projekttestseitezwei.de', 'portfoliosite.sketch-webdesign.de', 'www.portfoliosite.sketch-webdesign.de');
+$config->httpHosts = array(
+    '127.0.0.1:8000',
+    'localhost:3000',
+    'projekttestseitezwei.de', 
+    'www.projekttestseitezwei.de', 
+    'portfoliosite.sketch-webdesign.de', 
+    'www.portfoliosite.sketch-webdesign.de'
+);
 
